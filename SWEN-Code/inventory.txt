@@ -1,0 +1,13 @@
+1_47_Fresh Coca Bread from Tastes Jamaica_100_23_
+2_Water_Natural Spring Water from WATA Jamaica_120_0_
+3_Soda_Coca cola bottled soda_200_30_
+4_Cake_Plain cake from Pricesmart Jamaica_350_0_
+5_Tea_Natural Tea_200_15_
+6_Beef Patty_Fresh Patties from Tastes Jamaica_250_0_
+7_Chicken_Great Grilled Chicken_330_5_
+8_Goldie_Yummy cake with cream filling_100_25_
+9_Apples_Juicy green American apples_150_12_
+10_St. Mary's Cassava Chips_Crunchy chips from locally grown cassava. Lightly salted._170_24_
+11_Earbuds_Black wired earbuds from Samsung_900_0_
+12_Oreos_Pack of four delicious Oreos_100_12_
+13_Cups_Durable plastic cups in a variety of colours_390_15_

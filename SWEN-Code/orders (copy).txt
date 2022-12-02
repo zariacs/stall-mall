@@ -1,0 +1,7 @@
+6000_Richard_Barnett_5903940_6_6_SLT2 Faculty of SciTech_35000_
+6012_Bob_Bailey_1234567_3_3_SLT6 Faculty of SciTech_35001_
+6076_John_Brown_1234567_6_6_SLT3 Faculty of SciTech_35002_
+6076_John_Brown_1234567_3_1_SLT4 Faculty of SciTech_35003_
+6012_Bob_Bailey_1234567_6_1_SLT5 Faculty of SciTech_35004_
+6012_Bob_Bailey_1234567_3_3_SLT6 Faculty of SciTech_35005_
+6012_Bob_Bailey_1234567_3_1_MITS UWI MONA_35006_

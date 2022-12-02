@@ -1,0 +1,14 @@
+1 We will be open tomorrow 8a.m. to 10p.m.
+2 We now have Soda on sale for $160
+3 The price of Soda is now $160
+4 The price of Water is now $120
+5 The price of Water is now $120
+6 We now have Soda on sale for $160
+7 The price of Soda is now $160
+8 The price of Soda is now $160
+9 We now have Water on sale for $120
+10 Thank you all for coming by! We'll be open tomorrow from 8am to 9pm as usual. Take care, and see you soon. 
+11 The price of Tea is now $200
+12 The price of St. Mary's Cassava Chips is now $170
+13 We now have Apple on sale for $150
+14 The price of Soda is now $100

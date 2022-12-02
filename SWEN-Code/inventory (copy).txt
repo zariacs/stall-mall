@@ -1,0 +1,6 @@
+1_Coca Bread_Fresh Coca Bread from Tastes Jamaica_100_23_
+2_Water_Natural Spring Water from WATA Jamaica_120_0_
+3_Soda_Pepsi Bottled Soda_160_1_
+4_Cake_Plain cake from Pricesmart Jamaica_350_0_
+5_Tea_Natural Tea_200_15_
+6_Beef Patty_Fresh Patties from Tastes Jamaica_250_0_

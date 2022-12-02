@@ -1,0 +1,6 @@
+1 We're running low on Oreos. Right now we have 7 in stock.
+2 We're running low on Oreos. Right now we have 3 in stock.
+3 We're running low on Oreos. Right now we have 8 in stock.
+4 We're running low on Oreos. Right now we have 5 in stock.
+5 We're running low on Oreos. Right now we have 9 in stock.
+6 We're running low on Earbuds. Right now we have 0 in stock.
